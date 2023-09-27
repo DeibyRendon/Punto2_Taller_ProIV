@@ -1,0 +1,28 @@
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.AssemblyInfoInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.AssemblyInfo.cs
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.csproj.CoreCompileInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\bin\Debug\net8.0\avance taller.exe
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\bin\Debug\net8.0\avance taller.deps.json
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\bin\Debug\net8.0\avance taller.runtimeconfig.json
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\bin\Debug\net8.0\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\bin\Debug\net8.0\avance taller.pdb
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\refint\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.pdb
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\avance taller.genruntimeconfig.cache
+C:\Users\deibyrh\Desktop\programacion IV\trabajos en claces\avance taller\obj\Debug\net8.0\ref\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\bin\Debug\net8.0\avance taller.exe
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\bin\Debug\net8.0\avance taller.deps.json
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\bin\Debug\net8.0\avance taller.runtimeconfig.json
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\bin\Debug\net8.0\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\bin\Debug\net8.0\avance taller.pdb
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.AssemblyInfoInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.AssemblyInfo.cs
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.csproj.CoreCompileInputs.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\refint\avance taller.dll
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.pdb
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\avance taller.genruntimeconfig.cache
+C:\Users\deibyrh\Desktop\programacion IV\taller 2\obj\Debug\net8.0\ref\avance taller.dll
